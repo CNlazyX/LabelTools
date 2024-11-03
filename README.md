@@ -1,2 +1,3 @@
 # LabelTools
 Used for deep learning label format modification
+* yolo2json_1by1.py -----> 将yolo格式的.txt标签转化成.json格式的标签
